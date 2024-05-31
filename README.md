@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=NT1210&theme=vue-dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=NT1210&theme=apprentice&card-width=420" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NT1210&theme=vue-dark&layout=compact&langs_count=8" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NT1210&theme=apprentice&layout=compact&langs_count=8&card-width=420" />
 </a>
