@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-[![NT1210's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![NT1210's GitHub stats](https://github-readme-stats.vercel.app/api?username=NT1210&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
