@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋😄
 
 <!--
 **NT1210/NT1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
