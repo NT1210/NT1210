@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Nisimura, a self-taught wanna-be developer mainly aiming at front-end technologies. 
+I'm Nishimura, a self-taught wanna-be developer mainly aiming at front-end technologies. Typescript/JavaScript lover... 
 
 ## Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css&theme=dark&perline=4)
