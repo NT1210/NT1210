@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p>a self-taught wanna-be developer mainly aiming at front-end technologies.</p>
-<p>Typescript/JavaScript lover...</p>
+<p>Typescript/JavaScript main</p>
 
 ## Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css&theme=dark&perline=4)
