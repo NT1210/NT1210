@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p>a self-taught wanna-be developer mainly aiming at front-end technologies.</p>
+<p>a self-taught wanna-be developer aiming mainly at front-end technologies.</p>
 <p>Typescript/JavaScript main</p>
 
 ## Tech Stack
